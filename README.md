@@ -34,8 +34,8 @@
 - [ ] 《Go in Action》
 - [ ] [Go语言101](https://gfw.go101.org/article/101.html)
 - [ ] [《Go语言高级编程》](https://chai2010.cn/advanced-go-programming-book/)
-- [ ] [雨痕 GO 学习笔记](https://github.com/qyuhen/book)
-- [ ] [谢大 GO Web编程](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(3.3/15)***
+- [ ] [雨痕 Go 学习笔记](https://github.com/qyuhen/book)
+- [ ] [谢大 Go Web编程](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(3.3/15)***
 - [ ] [7天用Go从零实现系列](https://geektutu.com/post/gee.html)
 
 ## Network
@@ -43,7 +43,7 @@
 - [ ] 《计算机网络 自顶向下方法》
     - 《Wireshark网络分析就这么简单》
 - [ ] 《图解HTTP》
-- [ ] 《图解TCP\IP》
+- [ ] 《图解TCP/IP》
 - [ ] 《TCP/IP网络编程》
     - [学习笔记](https://github.com/riba2534/TCP-IP-NetworkNote)
 - [ ] 《UNIX网络编程》
@@ -56,10 +56,10 @@
 - [ ] 《UNIX环境高级编程》
 
 ## Database
-- [ ] 《Mysql基础教程》
+- [ ] 《MySQL基础教程》
 - [ ] 《MySQL必知必会》
     - [哈工大数据库](https://www.bilibili.com/video/BV1PJ411F78b)
-- [ ] Mysql实战45讲
+- [ ] MySQL实战45讲Mysql
 - [ ] 《MySQL是怎样运行的》
 - [ ] 《DDIA》
 - [ ] 《Redis设计与实现》
