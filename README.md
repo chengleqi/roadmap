@@ -38,6 +38,7 @@
 - [ ] [雨痕 Go 学习笔记](https://github.com/qyuhen/book)
 - [ ] [谢大 Go Web编程](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(3.3/15)***
 - [ ] [7天用Go从零实现系列](https://geektutu.com/post/gee.html)
+- [ ] 极客时间-Go面试题
 
 ## Network
 - [ ] 《网络是怎样连接的》 ***(1.1/6)***
@@ -60,7 +61,8 @@
 - [ ] 《MySQL基础教程》
 - [ ] 《MySQL必知必会》
     - [哈工大数据库](https://www.bilibili.com/video/BV1PJ411F78b)
-- [ ] MySQL实战45讲Mysql
+    - [尚硅谷MySQL](https://www.bilibili.com/video/BV1iq4y1u7vj?share_source=copy_web)
+- [ ] MySQL实战45讲
 - [ ] 《MySQL是怎样运行的》
 - [ ] 《DDIA》
 - [ ] 《Redis设计与实现》
@@ -70,6 +72,12 @@
 - [ ] 《Kubernetes in Action》 ***(5.1/18)***
     - [笔记](https://chengleqi.notion.site/Kubernetes-in-Action-b2706120ab174888817b1aa454cc8785)
 - [ ] [张磊 深入剖析Kubernetes](https://time.geekbang.org/column/intro/100015201)
-- [ ] [田飞雨 源码阅读笔记](https://blog.tianfeiyu.com/source-code-reading-notes/)
+- [ ] Kubernetes Source Code
+    - [田飞雨 源码阅读笔记](https://blog.tianfeiyu.com/source-code-reading-notes/)
+    - [六月天天 源码品读](https://junedayday.github.io/categories/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/)
 - [ ] 《Programming Kubernetes》
+- [ ] 极客时间-Kubernetes面试题
+
+## CNCF
 - [ ] 《云原生服务网格Istio：原理、实践、架构与源码解析》
+- [ ] 极客时间-云原生面试题
