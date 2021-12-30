@@ -62,11 +62,15 @@
 - [ ] 《MySQL基础教程》
 - [ ] 《MySQL必知必会》
     - [哈工大数据库](https://www.bilibili.com/video/BV1PJ411F78b)
-    - [尚硅谷MySQL](https://www.bilibili.com/video/BV1iq4y1u7vj?share_source=copy_web)
+    - [尚硅谷MySQL](https://www.bilibili.com/video/BV1iq4y1u7vj)
 - [ ] MySQL实战45讲
 - [ ] 《MySQL是怎样运行的》
-- [ ] 《DDIA》
+- [ ] 《MySQL技术内幕》
+- [ ] 《高性能MySQL》
+- [ ] [尚硅谷Redis](https://www.bilibili.com/video/BV1Rv41177Af)
 - [ ] 《Redis设计与实现》
+- [ ] 《Redis开发与运维》
+- [ ] 《DDIA》
 
 ## Kubernetes
 - [x] [Kubernetes Tutorial for Beginners](https://youtu.be/X48VuDVv0do)
