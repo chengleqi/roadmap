@@ -30,7 +30,7 @@
 
 ## Golang
 - [x] [practical-go-lessons](https://www.practical-go-lessons.com/)
-- [ ] [《Go圣经》](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(5/14)***
+- [ ] [《Go圣经》](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(6/14)***
     - [书中代码](https://github.com/chengleqi/goBible)
 - [ ] 《Go in Action》
 - [ ] [Go语言101](https://gfw.go101.org/article/101.html)
