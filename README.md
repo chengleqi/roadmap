@@ -39,7 +39,10 @@
 - [ ] [《Go 语言高性能编程》](https://geektutu.com/post/high-performance-go.html)
 - [ ] [《Go专家编程》](https://rainbowmango.gitbook.io/go/)
 - [ ] [《Go语言高级编程》](https://chai2010.cn/advanced-go-programming-book/)
-- [ ] [Go Walkthrough Go标准库系列](https://medium.com/go-walkthrough)
+- [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+    - [Go Walkthrough Go标准库系列](https://medium.com/go-walkthrough)
+- [ ] [《Go 语言设计与实现》](https://draveness.me/golang/)
+- [ ] [《Go语言原本》](https://golang.design/under-the-hood/)
 - [ ] [雨痕 Go 学习笔记](https://github.com/qyuhen/book)
 - [ ] [谢大 Go Web编程](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(3.3/15)***
 - [ ] [7天用Go从零实现系列](https://geektutu.com/post/gee.html)
