@@ -30,8 +30,7 @@
 
 ## Golang
 - [x] [practical-go-lessons](https://www.practical-go-lessons.com/)
-- [ ] [gobyexample](https://gobyexample.com/)
-- [ ] [《Go圣经》](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(9/14)***
+- [x] [《Go圣经》](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(跳过12.反射和13.底层编程)***
     - [书中代码](https://github.com/chengleqi/goBible)
 - [ ] 《Go in Action》
     - [飞雪无情Go语言实战笔记](https://www.flysnow.org/2017/03/04/go-in-action-go-package.html)
