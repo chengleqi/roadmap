@@ -12,12 +12,12 @@
 - [x] 《王爽汇编》
 - [ ] 《x86汇编语言 从实模式到保护模式》 ***(12/17)***
     - [书中代码](https://github.com/chengleqi/x86-asm-book-source)
-- [ ] 《现代操作系统》
-- [ ] 《csapp》 ***(2/12)***
+- [ ] 《csapp》 ***(2.1/12)***
     - [CMU课程录播-中文字幕](https://www.bilibili.com/video/BV1iW411d7hd)
     - [邓博士陪跑](https://www.bilibili.com/video/BV1hf4y1P7qW)
     - [3Blue1Brown Style](https://www.bilibili.com/video/BV1cD4y1D7uR)
     - [不周山csapp阅读笔记](https://wdxtub.com/work/)
+- [ ] 《现代操作系统》
 - [ ] 《ostep》
     - [南大OS](https://www.bilibili.com/video/BV1N741177F5)
 - [ ] 《操作系统原理、实现与实践》
