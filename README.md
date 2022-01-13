@@ -12,7 +12,7 @@
 - [x] 《王爽汇编》
 - [ ] 《x86汇编语言 从实模式到保护模式》 ***(12/17)***
     - [书中代码](https://github.com/chengleqi/x86-asm-book-source)
-- [ ] 《csapp》 ***(2.2/12)***
+- [ ] 《csapp》 ***(2.3/12)***
     - [CMU课程录播-中文字幕](https://www.bilibili.com/video/BV1iW411d7hd)
     - [邓博士陪跑](https://www.bilibili.com/video/BV1hf4y1P7qW)
     - [3Blue1Brown Style](https://www.bilibili.com/video/BV1cD4y1D7uR)
