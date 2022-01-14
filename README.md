@@ -50,7 +50,11 @@
 ## Network
 - [ ] 《网络是怎样连接的》 ***(1.1/6)***
 - [ ] 《计算机网络 自顶向下方法》
+    - [中科大郑烇](https://www.bilibili.com/video/BV1JV411t7ow)
     - 《Wireshark网络分析就这么简单》
+- [ ] [cs144](https://cs144.github.io/)
+    - [康宇学习笔记](https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html)
+    - [胡津铭学习总结](https://zhuanlan.zhihu.com/p/175998415)
 - [ ] 《图解HTTP》
 - [ ] 《图解TCP/IP》
 - [ ] 《TCP/IP网络编程》
@@ -69,6 +73,7 @@
 - [ ] 《MySQL必知必会》
     - [哈工大数据库](https://www.bilibili.com/video/BV1PJ411F78b)
     - [尚硅谷MySQL](https://www.bilibili.com/video/BV1iq4y1u7vj)
+- [ ] [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)
 - [ ] MySQL实战45讲
 - [ ] 《MySQL是怎样运行的》
 - [ ] 《MySQL技术内幕》
