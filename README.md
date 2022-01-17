@@ -7,19 +7,26 @@
     - [代码随想录](https://programmercarl.com/)
     - [半霜](https://github.com/halfrost/LeetCode-Go)
 - [ ] [浙大数据结构](https://www.icourse163.org/learn/ZJU-93001?tid=1465570445#/learn/content)
+- [ ] [CS61B数据结构](https://www.bilibili.com/video/BV1SW411P7hX)
+- [ ] [MIT 6.006数据结构与算法](https://www.bilibili.com/video/BV1b7411e7ZP)
 
 ## OS
 - [x] 《王爽汇编》
 - [ ] 《x86汇编语言 从实模式到保护模式》 ***(12/17)***
     - [书中代码](https://github.com/chengleqi/x86-asm-book-source)
 - [ ] 《csapp》 ***(2.5/12)***
+    - [hw](https://github.com/chengleqi/csapp)
     - [CMU课程录播-中文字幕](https://www.bilibili.com/video/BV1iW411d7hd)
     - [邓博士陪跑](https://www.bilibili.com/video/BV1hf4y1P7qW)
     - [3Blue1Brown Style](https://www.bilibili.com/video/BV1cD4y1D7uR)
     - [不周山csapp阅读笔记](https://wdxtub.com/work/)
+    - [fengmuzi2003 CSAPP重点解读](https://fengmuzi2003.gitbook.io/csapp3e/)
 - [ ] 《现代操作系统》
 - [ ] 《ostep》
+    - [WISC CS537操作系统导论](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html)
     - [南大OS](https://www.bilibili.com/video/BV1N741177F5)
+    - [南大课程实验](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/)
+- [ ] [MIT6.S081操作系统导论](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
 - [ ] 《操作系统原理、实现与实践》
     - [哈工大OS](https://www.bilibili.com/video/BV1d4411v7u7)
     - 《Linux内核完全注释》
@@ -29,6 +36,7 @@
 - [ ] 《图解系统-小林coding》
 
 ## Golang
+- [ ] [CS61A SICP](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 - [x] [practical-go-lessons](https://www.practical-go-lessons.com/)
 - [x] [《Go圣经》](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(跳过12.反射和13.底层编程)***
     - [书中代码](https://github.com/chengleqi/goBible)
@@ -52,7 +60,7 @@
 - [ ] 《计算机网络 自顶向下方法》
     - [中科大郑烇](https://www.bilibili.com/video/BV1JV411t7ow)
     - 《Wireshark网络分析就这么简单》
-- [ ] [cs144](https://cs144.github.io/)
+- [ ] [cs144计算机网络](https://cs144.github.io/)
     - [康宇学习笔记](https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html)
     - [胡津铭学习总结](https://zhuanlan.zhihu.com/p/175998415)
 - [ ] 《图解HTTP》
@@ -73,7 +81,7 @@
 - [ ] 《MySQL必知必会》
     - [哈工大数据库](https://www.bilibili.com/video/BV1PJ411F78b)
     - [尚硅谷MySQL](https://www.bilibili.com/video/BV1iq4y1u7vj)
-- [ ] [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)
+- [ ] [CMU 15-445数据库系统](https://15445.courses.cs.cmu.edu/fall2021/)
 - [ ] MySQL实战45讲
 - [ ] 《MySQL是怎样运行的》
 - [ ] 《MySQL技术内幕》
@@ -84,6 +92,7 @@
 - [ ] 《DDIA》
 
 ## Kubernetes
+- [ ] [MIT 6.824分布式系统](https://www.bilibili.com/video/BV1R7411t71W)
 - [x] [Kubernetes Tutorial for Beginners](https://youtu.be/X48VuDVv0do)
 - [ ] 《Kubernetes in Action》 ***(5.1/18)***
     - [笔记](https://chengleqi.notion.site/Kubernetes-in-Action-b2706120ab174888817b1aa454cc8785)
@@ -97,3 +106,7 @@
 ## CNCF
 - [ ] 《云原生服务网格Istio：原理、实践、架构与源码解析》
 - [ ] 极客时间-云原生面试题
+
+## etc
+
+[名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
