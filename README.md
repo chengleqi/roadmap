@@ -5,6 +5,7 @@
 ## Algorithm
 - [x] Leetcode ***(ing...)***
     - [代码随想录](https://programmercarl.com/)
+    - [labuladong](https://labuladong.gitee.io/algo/)
     - [半霜](https://github.com/halfrost/LeetCode-Go)
 - [ ] [浙大数据结构](https://www.icourse163.org/learn/ZJU-93001?tid=1465570445#/learn/content)
 - [ ] [CS61B数据结构](https://www.bilibili.com/video/BV1SW411P7hX)
@@ -14,12 +15,11 @@
 - [x] 《王爽汇编》
 - [ ] 《x86汇编语言 从实模式到保护模式》 ***(12/17)***
     - [书中代码](https://github.com/chengleqi/x86-asm-book-source)
-- [ ] 《csapp》 ***(2.5/12)***
-    - [hw](https://github.com/chengleqi/csapp)
+- [ ] 《csapp》 ***(3/12)***
+    - [hw](https://github.com/chengleqi/csapp-3e-homework)
     - [CMU课程录播-中文字幕](https://www.bilibili.com/video/BV1iW411d7hd)
     - [邓博士陪跑](https://www.bilibili.com/video/BV1hf4y1P7qW)
     - [3Blue1Brown Style](https://www.bilibili.com/video/BV1cD4y1D7uR)
-    - [不周山csapp阅读笔记](https://wdxtub.com/work/)
     - [fengmuzi2003 CSAPP重点解读](https://fengmuzi2003.gitbook.io/csapp3e/)
 - [ ] 《现代操作系统》
 - [ ] 《ostep》
