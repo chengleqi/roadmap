@@ -7,36 +7,33 @@
     - [代码随想录](https://programmercarl.com/)
     - [labuladong](https://labuladong.gitee.io/algo/)
     - [半霜](https://github.com/halfrost/LeetCode-Go)
-- [ ] [浙大数据结构](https://www.icourse163.org/learn/ZJU-93001?tid=1465570445#/learn/content)
-- [ ] [CS61B数据结构](https://www.bilibili.com/video/BV1SW411P7hX)
-- [ ] [MIT 6.006数据结构与算法](https://www.bilibili.com/video/BV1b7411e7ZP)
+- [ ] [UC Berkeley CS61B: Data Structures and Algorithms](https://sp18.datastructur.es/)
+- [ ] [Coursera: Algorithms I & II](https://www.coursera.org/learn/algorithms-part1)
+- [ ] [UC Berkeley CS170: Efficient Algorithms and Intractable Problems](https://cs170.org/)
+- [ ] [MIT 6.006数据结构与算法](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/lecture-videos/index.htm)
 
 ## OS
 - [x] 《王爽汇编》
 - [ ] 《x86汇编语言 从实模式到保护模式》 ***(12/17)***
-    - [书中代码](https://github.com/chengleqi/x86-asm-book-source)
+    - [book-source-code](https://github.com/chengleqi/x86-asm-book-source)
 - [ ] 《csapp》 ***(3/12)***
-    - [hw](https://github.com/chengleqi/csapp-3e-homework)
-    - [CMU课程录播-中文字幕](https://www.bilibili.com/video/BV1iW411d7hd)
-    - [邓博士陪跑](https://www.bilibili.com/video/BV1hf4y1P7qW)
-    - [3Blue1Brown Style](https://www.bilibili.com/video/BV1cD4y1D7uR)
-    - [fengmuzi2003 CSAPP重点解读](https://fengmuzi2003.gitbook.io/csapp3e/)
-- [ ] 《现代操作系统》
+    - [csapp-3e-solution](https://github.com/chengleqi/csapp-3e-solution)
+    - [CMU 15-213 课程录播-中文字幕](https://www.bilibili.com/video/BV1iW411d7hd)
 - [ ] 《ostep》
-    - [WISC CS537操作系统导论](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html)
+    - [UC Berkeley CS 162: Operating Systems and Systems Programming](https://cs162.org/)
     - [南大OS](https://www.bilibili.com/video/BV1N741177F5)
     - [南大课程实验](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/)
-- [ ] [MIT6.S081操作系统导论](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
+    - [WISC CS537操作系统导论](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html)
+- [ ] [MIT 6.S081: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 - [ ] 《操作系统原理、实现与实践》
     - [哈工大OS](https://www.bilibili.com/video/BV1d4411v7u7)
     - 《Linux内核完全注释》
         - http://oldlinux.org/
-- [ ] [MIT 6.828](https://pdos.csail.mit.edu/6.828/2019/schedule.html)
 - [ ] 《Orange'S:一个操作系统的实现》
 - [ ] 《图解系统-小林coding》
 
 ## Golang
-- [ ] [CS61A SICP](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+- [ ] [UC Berkeley CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 - [x] [practical-go-lessons](https://www.practical-go-lessons.com/)
 - [x] [《Go圣经》](https://wizardforcel.gitbooks.io/build-web-application-with-golang/content/preface.html) ***(跳过12.反射和13.底层编程)***
     - [书中代码](https://github.com/chengleqi/goBible)
@@ -60,7 +57,7 @@
 - [ ] 《计算机网络 自顶向下方法》
     - [中科大郑烇](https://www.bilibili.com/video/BV1JV411t7ow)
     - 《Wireshark网络分析就这么简单》
-- [ ] [cs144计算机网络](https://cs144.github.io/)
+- [ ] [Stanford CS 144: Introduction to Computer Networking](https://cs144.github.io/)
     - [康宇学习笔记](https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html)
     - [胡津铭学习总结](https://zhuanlan.zhihu.com/p/175998415)
 - [ ] 《图解HTTP》
@@ -77,11 +74,11 @@
 - [ ] 《UNIX环境高级编程》
 
 ## Database
-- [ ] 《MySQL基础教程》
-- [ ] 《MySQL必知必会》
-    - [哈工大数据库](https://www.bilibili.com/video/BV1PJ411F78b)
-    - [尚硅谷MySQL](https://www.bilibili.com/video/BV1iq4y1u7vj)
-- [ ] [CMU 15-445数据库系统](https://15445.courses.cs.cmu.edu/fall2021/)
+- [ ] 《SQL基础教程》
+- [ ] 《SQL必知必会》
+- [ ] [UCB CS186: Introduction to Database System](https://cs186berkeley.net/sp21/)
+- [ ] [CMU 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2021/)
+- [ ] 《DDIA》
 - [ ] MySQL实战45讲
 - [ ] 《MySQL是怎样运行的》
 - [ ] 《MySQL技术内幕》
@@ -89,10 +86,9 @@
 - [ ] [尚硅谷Redis](https://www.bilibili.com/video/BV1Rv41177Af)
 - [ ] 《Redis设计与实现》
 - [ ] 《Redis开发与运维》
-- [ ] 《DDIA》
 
 ## Kubernetes
-- [ ] [MIT 6.824分布式系统](https://www.bilibili.com/video/BV1R7411t71W)
+- [ ] [MIT 6.824: Distributed System](https://www.bilibili.com/video/BV1R7411t71W)
 - [x] [Kubernetes Tutorial for Beginners](https://youtu.be/X48VuDVv0do)
 - [ ] 《Kubernetes in Action》 ***(5.1/18)***
     - [笔记](https://chengleqi.notion.site/Kubernetes-in-Action-b2706120ab174888817b1aa454cc8785)
@@ -110,3 +106,4 @@
 ## etc
 
 [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
+[CS自学指南](https://csdiy.wiki/)
