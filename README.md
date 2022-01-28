@@ -10,7 +10,7 @@
 - [ ] [UC Berkeley CS61B: Data Structures and Algorithms](https://sp18.datastructur.es/)
 - [ ] [Coursera: Algorithms I & II](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [UC Berkeley CS170: Efficient Algorithms and Intractable Problems](https://cs170.org/)
-- [ ] [MIT 6.006数据结构与算法](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/lecture-videos/index.htm)
+- [ ] [MIT 6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/lecture-videos/index.htm)
 
 ## OS
 - [x] 《王爽汇编》
@@ -23,7 +23,6 @@
     - [UC Berkeley CS 162: Operating Systems and Systems Programming](https://cs162.org/)
     - [南大OS](https://www.bilibili.com/video/BV1N741177F5)
     - [南大课程实验](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/)
-    - [WISC CS537操作系统导论](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html)
 - [ ] [MIT 6.S081: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 - [ ] 《操作系统原理、实现与实践》
     - [哈工大OS](https://www.bilibili.com/video/BV1d4411v7u7)
